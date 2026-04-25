@@ -1,30 +1,36 @@
 {
     "signup_welcome_text": {
         "en": "Hello there!",
-        "jp": "ようこそ！"
+        "jp": "ようこそ！",
+        "fr": "Te voilà !"
     },
     "signup_user_hello": {
         "en": "Welcome, {first_name}!",
-        "jp": "こんにちは、{first_name}"
+        "jp": "こんにちは、{first_name}",
+        "fr": "Bienvenue, {first_name} !"
     },
     "signup_password_title": {
         "en": "Shhh... It's a Secret!",
-        "jp": "話さないでください！"
+        "jp": "話さないでください！",
+        "fr": "Motus et bouche cousue !"
     },
 
 
     "home_welcome_text": {
         "en": "Ready to study, {first_name}?",
-        "jp": "{first_name}さん、勉強しましょう!"
+        "jp": "{first_name}さん、勉強しましょう!",
+        "fr": "Au boulot, {first_name} !"
     },
 
 
     "err_403_head": {
         "en": "Uh-oh! Access Denied!",
-        "jp": "入ってはダメ！"
+        "jp": "入ってはダメ！",
+        "fr": "Halte là !"
     },
     "err_404_head": {
         "en": "Oops! Page Not Found!",
-        "jp": "ページはどこ？"
+        "jp": "ページはどこ？",
+        "fr": "Aïe ! Page introuvable !"
     }
 }

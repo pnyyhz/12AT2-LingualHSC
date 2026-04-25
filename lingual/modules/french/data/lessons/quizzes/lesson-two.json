@@ -1,0 +1,94 @@
+{
+    "intro": {
+        "title": "Conditionnel",
+        "bank": [
+            {
+                "type": "mc",
+                "question": "What's the conditional used for?",
+                "options": [
+                    "Hypothetical situations and polite requests",
+                    "Actions that already happened and are finished",
+                    "Direct commands and orders"
+                ],
+                "answer": 0
+            },
+            {
+                "type": "mc",
+                "question": "How is the conditional formed?",
+                "options": [
+                    "Future stem + imperfect endings",
+                    "Infinitive + present endings",
+                    "Helper verb (avoir/être) + past participle"
+                ],
+                "answer": 0,
+                "explanation": "The stem is the same one you'd use for the future tense, and the endings (-ais, -ais, -ait, -ions, -iez, -aient) are the imperfect endings."
+            },
+            {
+                "type": "input",
+                "question": "Conjugate \"parler\" in the conditional with \"je\".",
+                "valid": [
+                    "je parlerais",
+                    "parlerais"
+                ]
+            },
+            {
+                "type": "input",
+                "question": "What's the conditional stem of \"aller\"?",
+                "valid": [
+                    "ir",
+                    "ir-"
+                ],
+                "explanation": "Aller is irregular. The stem is ir-, so \"I would go\" is j'irais, not j'allerais."
+            },
+            {
+                "type": "input",
+                "question": "Translate \"I would like\" using vouloir.",
+                "valid": [
+                    "je voudrais",
+                    "voudrais"
+                ],
+                "explanation": "Vouloir's conditional stem is voudr-."
+            },
+            {
+                "type": "mc",
+                "question": "In a hypothetical si clause, what tense does the verb after \"si\" take?",
+                "options": [
+                    "Imperfect",
+                    "Conditional",
+                    "Present"
+                ],
+                "answer": 0,
+                "explanation": "The si clause uses imperfect; the result clause uses conditional. The conditional never appears directly after si."
+            },
+            {
+                "type": "mc",
+                "question": "Which sentence is correct?",
+                "allow-shuffle": false,
+                "options": [
+                    "Si j'avais de l'argent, j'achèterais une voiture.",
+                    "Si j'aurais de l'argent, j'achèterais une voiture.",
+                    "Si j'avais de l'argent, j'achetais une voiture."
+                ],
+                "answer": 0,
+                "explanation": "Imperfect after si, conditional in the result clause."
+            },
+            {
+                "type": "input",
+                "question": "Conjugate \"être\" in the conditional with \"nous\".",
+                "valid": [
+                    "nous serions",
+                    "serions"
+                ]
+            },
+            {
+                "type": "input",
+                "question": "Conjugate \"vendre\" in the conditional with \"vous\".",
+                "valid": [
+                    "vous vendriez",
+                    "vendriez"
+                ],
+                "explanation": "Vendre is an -re verb, so you drop the final -e before adding the endings: vendr- + -iez."
+            }
+        ]
+    }
+}

@@ -1,5 +1,6 @@
 {
-    "lessons": {
-
-    }
+    "lessons": [
+        "lesson-one",
+        "lesson-two"
+    ]
 }

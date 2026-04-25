@@ -1,0 +1,82 @@
+{
+    "intro": {
+        "title": "Passé Composé",
+        "bank": [
+            {
+                "type": "mc",
+                "question": "What two things make up the passé composé?",
+                "options": [
+                    "A helper verb (avoir or être) and a past participle",
+                    "Just the past participle on its own",
+                    "Two verbs in the imperfect tense"
+                ],
+                "answer": 0
+            },
+            {
+                "type": "mc",
+                "question": "Which helper verb does \"aller\" take in the passé composé?",
+                "options": [
+                    "être",
+                    "avoir",
+                    "either works"
+                ],
+                "answer": 0,
+                "explanation": "Aller is one of the DR & MRS VANDERTRAMP verbs, so it always uses être."
+            },
+            {
+                "type": "input",
+                "question": "Write \"I ate\" in the passé composé (use \"je\").",
+                "valid": [
+                    "j'ai mangé",
+                    "j'ai mange",
+                    "j ai mangé",
+                    "j ai mange"
+                ],
+                "explanation": "Manger is a regular -er verb, so the past participle is mangé. It uses avoir."
+            },
+            {
+                "type": "input",
+                "question": "What's the past participle of \"faire\"?",
+                "valid": [
+                    "fait"
+                ]
+            },
+            {
+                "type": "input",
+                "question": "Write \"she went\" in the passé composé.",
+                "valid": [
+                    "elle est allée",
+                    "elle est allee"
+                ],
+                "explanation": "With être verbs the past participle agrees with the subject. Elle is feminine singular, so allé picks up an extra -e."
+            },
+            {
+                "type": "input",
+                "question": "Past participle of \"voir\"?",
+                "valid": [
+                    "vu"
+                ]
+            },
+            {
+                "type": "mc",
+                "question": "\"Nous ___ fini nos devoirs.\" Which helper verb fits?",
+                "options": [
+                    "avons",
+                    "sommes",
+                    "ont"
+                ],
+                "answer": 0,
+                "explanation": "Finir uses avoir, and the subject is nous, so it's avons."
+            },
+            {
+                "type": "input",
+                "question": "Conjugate \"aller\" in the passé composé with \"elles\".",
+                "valid": [
+                    "elles sont allées",
+                    "elles sont allees"
+                ],
+                "explanation": "Aller is an être verb, so the helper is sont. Elles is feminine plural, so the past participle agrees: allé + -es."
+            }
+        ]
+    }
+}
